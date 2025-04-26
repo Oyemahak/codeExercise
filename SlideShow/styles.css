@@ -1,0 +1,15 @@
+.slideshow-container {
+    position: relative;
+    width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.slide {
+    display: none;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
